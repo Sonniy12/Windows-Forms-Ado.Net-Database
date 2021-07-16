@@ -1,0 +1,11 @@
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\ADO.Net_1\Filmography\Filmography\bin\Debug\Filmography.exe.config
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\ADO.Net_1\Filmography\Filmography\bin\Debug\Filmography.exe
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\ADO.Net_1\Filmography\Filmography\bin\Debug\Filmography.pdb
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\ADO.Net_1\Filmography\Filmography\obj\Debug\Filmography.csprojAssemblyReference.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\ADO.Net_1\Filmography\Filmography\obj\Debug\Filmography.Form1.resources
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\ADO.Net_1\Filmography\Filmography\obj\Debug\Filmography.Properties.Resources.resources
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\ADO.Net_1\Filmography\Filmography\obj\Debug\Filmography.Sorting.resources
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\ADO.Net_1\Filmography\Filmography\obj\Debug\Filmography.csproj.GenerateResource.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\ADO.Net_1\Filmography\Filmography\obj\Debug\Filmography.csproj.CoreCompileInputs.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\ADO.Net_1\Filmography\Filmography\obj\Debug\Filmography.exe
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\ADO.Net_1\Filmography\Filmography\obj\Debug\Filmography.pdb
